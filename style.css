@@ -4,3 +4,20 @@ img {
   display: block;
   margin: 0 auto;
 }
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  text-align: center;
+}
+h1 {
+  font-size: 24px;
+  color: #222;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
