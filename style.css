@@ -1,8 +1,10 @@
 img {
-  width: 500px;
+  width: 700px;
   height: auto;
   display: block;
   margin: 0 auto;
+  border-style: double;
+  border-radius: 30px;
 }
 p {
   font-size: 16px;
@@ -15,6 +17,9 @@ h1 {
   font-weight: bold;
   color: #222;
   text-align: center;
+  border-style: double;
+  padding: 15px;
+  border-radius: 30px;
 }
 body {
   font-family: Arial, sans-serif;
@@ -26,5 +31,11 @@ h2 {
   font-size: 30px;
   font-weight: bold;
   color: #222;
+  text-align: center;
+  border-style: double;
+  padding: 15px;
+   border-radius: 30px;
+}
+ul {
   text-align: center;
 }
